@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/Script-EggReroller/refs/heads/main/Pets-Age-Lvl50.lua"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/8cu1ZwKcdr/0", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/u5BD2Qh1Uz/0", true))()
