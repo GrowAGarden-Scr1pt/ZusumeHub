@@ -1,3 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/Pet-Spanwer/refs/heads/main/PetMutationFinder.lua"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/u5BD2Qh1Uz/0", true))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KuniDevLua/Lua/refs/heads/main/X"))()
