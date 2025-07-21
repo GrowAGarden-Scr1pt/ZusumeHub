@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/EggDetector-Script/refs/heads/main/Egg-Randomizer.lua"))()
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/kGPQUn3ZHn/0", true))()
