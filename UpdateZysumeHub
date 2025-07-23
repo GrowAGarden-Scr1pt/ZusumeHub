@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/EggDetector-Script/refs/heads/main/Egg-Randomizer.lua"))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/vYz4lwcId0iqAjoy/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/ZusumeHub/refs/heads/main/EggRandomizer.lua"))()
