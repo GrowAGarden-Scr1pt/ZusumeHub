@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/EggDetector-Script/refs/heads/main/Egg-Randomizer.lua"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/ZusumeHub/refs/heads/main/EggRandomizer.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GrowAGarden-Scr1pt/Lrm_SCRIPT/refs/heads/main/obfuscated_code%20(1).lua"))()
